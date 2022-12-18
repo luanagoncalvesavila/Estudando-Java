@@ -3,9 +3,9 @@
 ### I hope I can show you a little bit of myself in my code 😄
 
 #### Summary 📖
-    :arrow_forward:Desafio DIO: Média de Idade
-    :arrow_forward:Desafio DIO: Qual o seu turno?
-    :arrow_forward:Desafio DIO: Fila do Banco
+    ▶️Desafio DIO: Média de Idade
+    ▶️Desafio DIO: Qual o seu turno?
+    ▶️Desafio DIO: Fila do Banco
     🔜
 
 
