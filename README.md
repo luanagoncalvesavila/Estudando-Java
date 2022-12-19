@@ -3,9 +3,8 @@
 ### I hope I can show you a little bit of myself in my code 😄
 
 #### Summary 📖
-    ▶️Desafio DIO: Média de Idade
-    ▶️Desafio DIO: Qual o seu turno?
-    ▶️Desafio DIO: Fila do Banco
+    ▶️Lógica: códigos voltados para o desenvolvimento da lógica de programação (Desafios DIO)
+    ▶️Outro
     🔜
 
 
